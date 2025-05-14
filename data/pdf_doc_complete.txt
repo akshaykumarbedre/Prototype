@@ -1,0 +1,143 @@
+# CASHLESS CARD SOLUTIONS
+## Educational Sector
+
+## ABOUT US
+Our solutions are meticulously crafted to revolutionize the way Healthcare, Education and Retail industries operate. Powered by cutting-edge technology, our ERPs are designed to streamline processes, enhance efficiency, and empower decision-making.
+
+At SYNTHETECH CLOUD SOLUTIONS we are driven by a pioneering spirit and a vision for transformative solutions. As a dynamic startup on a mission to reshape the landscape of Healthcare, Education and Retail Industries, we are fuelled by innovation, dedication, and the potential for groundbreaking impact. While our journey is young, our determination knows no bounds, and we are committed to crafting a legacy of excellence.
+
+## WHY CHOOSE US
+### EXPERIENCE THE FUTURE
+With a relentless commitment to staying at the forefront of technology, we empower your organization to streamline processes, make data-driven decisions, and achieve unprecedented efficiency.
+
+### WHAT YOU GET
+You gain access to a game-changing technology that revolutionizes your operations. Our solutions offer tailored efficiency, data-driven insights, and collaboration enhancements.
+
+Step into a new era of operational excellence and witness firsthand how our cutting-edge ERP solutions are transforming healthcare, education, and retail industries. Streamline processes, harness data-driven insights, and empower your team to make informed decisions that drive success.
+
+## OUR SOLUTIONS
+
+### Offline Transaction Capability
+Our system is designed to operate seamlessly in offline mode, enabling transactions without requiring an active internet connection. Internet access is only necessary during the end-of-day settlement process to sync transaction data, ensuring uninterrupted operations throughout the day.
+
+### Lightning-Fast Transaction Processing
+Experience unparalleled transaction speeds, significantly outperforming conventional methods. Transactions are processed and approved in under 10 seconds, offering a swift and efficient user experience.
+
+### Comprehensive End-to-End Support
+Our dedicated and specialized service team ensures a smooth and hassle-free business experience for our valued clients. From implementation to ongoing support, we are committed to delivering exceptional service tailored to your business needs.
+
+### Enhanced Security with Personalized PINs
+Strengthen the security of your transactions with our optional on-demand personalized PIN feature. This additional layer of protection ensures a safe and secure environment for all your financial operations.
+
+## INTEGRATED SMARTCARD AND TRANSACTION
+
+### Cards
+The student card will have a built-in wallet for all campus-related activities. Students can use it for payments, entry to restricted areas, marking attendance, and borrowing books from the library.
+
+### Transactions
+All transactions will work offline, and the data will be saved directly on the card. The POS machines will only need to connect to the internet once a day to sync the data.
+
+### POS
+POS (Point of Sale) machines will be set up at every counter. These machines will be ready to use and linked to the student cards.
+
+### Reports
+Detailed reports (MIS Reports) will be automatically created in the system and sent to the concerned authorities daily. These reports will show all important transaction and usage data.
+
+## ANDROID POS MACHINE - FEATURES
+SYNTHETECH POS – Z91:
+- Android 9.0
+- 1 GB RAM
+- 8 GB FLASH Memory
+- 5.5" Touch-Screen Display
+- 4G GSM Enabled
+- Inbuilt 2" Terminal Printer
+- Inbuilt Camera for QR Code, Barcode Scanner
+- Wi-Fi Enabled
+- Hand-held for mobility
+- 2000 mAH / up-to 8hrs Battery backup
+- NFC Enabled for Contactless Transactions
+- Simple Pay Application Preinstalled
+- Charging Cable / Adaptor
+- Large Display, Touch Screen, Inbuilt Printer, Pre-Installed App
+
+## TECHNICAL FEATURES
+- ANDROID BASED POS: For Faster and Convenient User and Merchant Experience
+- CLOUD BASED SERVER: Setup for unmatched Performance with Industry Standard Security Features
+- CONTACTLESS SMART CARD: For all your digital needs (ID Card, Payments, Access Control, and many more)
+- Provide Real time balance for every transaction with counter slip
+- Back-end bulk Cards Loading facility
+- Cards can be enabled with Location wise restriction
+
+## WALLET INTEGRATION
+- Card: Mi-Fare 1K Classic Card for multiple usage
+- Wallet: Smart wallet using State of the art technology
+- Print: Card printing as per design shared with 2 Variable Data
+- Secure: Safer and secured with a personalized PIN On Demand
+
+## POINT OF SALE INTEGRATION
+- Android POS: State of the Art Android POS for Faster and Touch Panel Display
+- Android App: Intelligent App for accepting and executing transactions on Smart Cards
+- Print: Printer inbuilt for taking physical copy for every / On-Demand Transactions
+- Secure: Safer and secured with encrypted application
+
+## SERVER SETUP
+- Cloud Server: State of the Art Industry standard Cloud Servers with an up-time of 99%
+- Enhanced Features: Customization on POS configuration, Card Allocation
+- MIS Reports: Automated / Customized report of the transactions Card / POS wise Data
+- Secure Data Storage: Secure data storage on cloud with a back-up of 90 Days
+
+## OUR SOLUTION BENEFITS
+
+### Management
+- Cashless environment - better workplace experience for Institution
+- Automated Reports for quick reference
+- Elimination of cash transactions and pilferage
+- Ops Manpower optimization – time is freed to tackle other priority issues
+- Instant Card loading facility in the Campus with Multiple options
+- Global standard of workplace satisfaction
+
+### Staff
+- Easy Access to Card Statements
+- No disputes with Cashier on change and payment; It's now a Cashless environment
+- Contactless Card with secured transaction with 4 digit PIN (optional feature)
+- Real Time Balance on Counter Slip for every transaction
+
+### Students
+- Contactless Transaction at every touch points
+- Faster Process Offline Transactions Tap & Pay
+- Avoid Frequent visit to Cash Counters
+- Real time balance on every transactions
+- Instant card loading facility at campus
+
+### Vendors
+- Elimination of cash pilferage
+- Daily Automated MIS Reports for timely payments
+- Touch enabled POS Machines for ease of usage
+- Higher quality of service support with Automated MIS Reports
+- Customised Counter POS Machines with Menu Integration
+
+## WHY OUR SOLUTION WORKS
+
+### GO-TO-MARKET
+- B2B approach translates to acquiring a larger number of users and merchants with considerably less time and effort
+- Ensures proximity of users and merchants as both are within the ecosystem
+
+### TECHNOLOGY
+- Faster than host-based system (Visa, MasterCard)
+- No dependency on networks (phone line or internet) for transactions to go through
+- Low cost per transaction
+
+### MARKET NEED
+- Smart, fast, hassle-free transactions
+- Consolidated details of spends and purchases sent to consumer and merchant
+- Less time spent on entire transaction
+- No burden of producing small change
+- Corporates also benefit from less time wastage and stress-free employees
+
+## CONTACT INFORMATION
+SYNTHETECH CLOUD SOLUTIONS
+PRAMOD P
+FOUNDER
++91 63644 32506
+SYNTHETECHCLOUD.SALES@GMAIL.COM
+HTTPS://SYNTHETECHCLOUD.COM
