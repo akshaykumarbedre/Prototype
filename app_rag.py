@@ -3,7 +3,7 @@ import dotenv
 import streamlit as st
 
 dotenv.load_dotenv()
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+openai_api_key = st.secrets["OPENAI_API_KEY"] #os.getenv("OPENAI_API_KEY")
 model = "text-embedding-3-small"
 
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
@@ -64,10 +64,10 @@ user_query = st.text_input("Enter your question:", value=sample_question)
 if st.button("Get Answer"):
     with st.spinner("Getting answer..."):
         # Initialize embeddings and vector store
-        embeddings = OpenAIEmbeddings(model=model)
+        embeddings = OpenAIEmbeddings(model=model, api_key=openai_api_key)
         vector_store = FAISS.load_local("vector_store", embeddings, allow_dangerous_deserialization=True)
         retriever = vector_store.as_retriever()
-        llm = ChatOpenAI(model="gpt-4o-mini")
+        llm = ChatOpenAI(model="gpt-4o-mini", api_key=openai_api_key)
 
         # Custom prompt
         custom_prompt = PromptTemplate(
